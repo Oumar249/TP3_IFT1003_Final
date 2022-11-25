@@ -6,12 +6,7 @@ Représente une partie du jeu.
 Il est déconseillé de modifier cette classe car cela pourrait facilement
 briser le fonctionnement du jeu (à l'exception des méthodes qui vous sont demandées!).
 """
-from joueur import Joueur
 
-
-# je crois il est nécessaire pour faire fonctionner le code, car il y a des références à
-# la classe Joueur(joueur.est_elimine, etc.)
-# Question:Je ne comprends pas pourquoi quand il y'a 0 dés, le joueur n'est pas éliminé?
 
 class Gladeateur:
     """ Représente une partie du jeu.

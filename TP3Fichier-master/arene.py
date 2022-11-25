@@ -154,10 +154,10 @@ class Arene:
         Returns:
             dict: Le dictionnaire associant valeurs de dés et nombre d'occurence
         """
-        list = {2: 0, 3: 0, 4: 0, 5: 0, 6: 0}
+        liste = {2: 0, 3: 0, 4: 0, 5: 0, 6: 0}
         for de in self.des.values():
-            list[de.valeur] += 1
-        return list
+            liste[de.valeur] += 1
+        return liste
 
     def retirer_correspondances(self, comptes, joueur_en_cours):
         """

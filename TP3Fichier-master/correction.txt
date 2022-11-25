@@ -4,22 +4,15 @@ Fichier de correction TP3
 
 Étudiant 1
 ---------------
-Prénom et Nom:
-Numéro de dossier (NI):
-Temps de réalisation:
+Prénom et Nom: Anass El Hallaoui
+Numéro de dossier (NI):536978272
+Temps de réalisation: 4H
 
 Étudiant 2
 ---------------
-Prénom et Nom:
+Prénom et Nom: Oumar Dieng El Hadji
 Numéro de dossier (NI):
 Temps de réalisation:
-
-Étudiant 3
----------------
-Prénom et Nom:
-Numéro de dossier (NI):
-Temps de réalisation:
-
 
 *******************************************
 ******* Jouabilité (20 points)      *******
